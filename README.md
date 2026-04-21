@@ -1,6 +1,6 @@
 # GetOpticalMaps
 
-Este proyecto está actualmente incompleto y se está desarrollando para solucionar una problemática personal. Como alguien que vende marcos (como marcos ópticos o de cuadros), me di cuenta de que me faltaba una forma efectiva de promocionar mis productos. Esta herramienta, GetOpticalMaps, busca ayudar en la generación de mapas ópticos o promocionales para mejorar la visibilidad y el alcance de mis ventas.
+Este proyecto está actualmente incompleto y se está desarrollando para solucionar una problemática personal. me di cuenta de que me faltaba una forma efectiva de promocionar mis productos. Esta herramienta, GetOpticalMaps, busca ópticas donde extrae la info y de esta forma contactarlos para mejorar la visibilidad y el alcance de mis ventas.
 
 ## Estado del Proyecto
 
